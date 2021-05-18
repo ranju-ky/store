@@ -1,0 +1,18 @@
+###
+POST http://localhost:8080/prouducts
+Content-Type: application/x-www-form-urlencoded
+
+name=peras&price=15
+
+###
+GET http://localhost:8080/prouducts
+Accept: application/json
+
+
+
+
+
+
+
+
+
